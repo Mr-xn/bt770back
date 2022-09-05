@@ -1,7 +1,7 @@
 # bt770back
 bt770back
 ```shell
-wget -c https://raw.iqiq.io/Mr-xn/bt770back/main/LinuxPanel-7.7.0.zip
+wget -c https://github.com/Mr-xn/bt770back/raw/main/LinuxPanel-7.7.0.zip
 ls
 unzip LinuxPanel-*
 ls
