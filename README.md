@@ -8,5 +8,6 @@ ls
 cd panel/
 bash update.sh 
 bt 1
+rm -f /www/server/panel/data/bind.pl
 #have fun
 ```
